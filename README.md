@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nativ-shalom/streaming-episode-prediction/blob/main/Netflix_Prediction_Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nativ-shalom/streaming-episode-prediction/blob/main/Binge_Watching_Project_EN.ipynb)
+
 
 # streaming-episode-prediction
 # 🎬 Predicting Episode Continuation in a Streaming Platform
